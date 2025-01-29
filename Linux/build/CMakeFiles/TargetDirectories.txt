@@ -1,0 +1,3 @@
+/home/yy/Desktop/MyImgui_Linux/Linux/build/CMakeFiles/rebuild_cache.dir
+/home/yy/Desktop/MyImgui_Linux/Linux/build/CMakeFiles/edit_cache.dir
+/home/yy/Desktop/MyImgui_Linux/Linux/build/CMakeFiles/my_imgui_project.dir
